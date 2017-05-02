@@ -41,6 +41,7 @@ Add in sbt using `libraryDependencies += ... % "test"`:
 
 Add in sbt using `libraryDependencies += ...`:
 
+    "com.chuusai"                      %% "shapeless"                 % "2.3.2"
     "org.scalactic"                    %% "scalactic"                 % "3.0.3"           % "test"
     "org.scalaz"                       %% "scalaz-core"               % "7.2.11"
     "org.typelevel"                    %% "macro-compat"              % "1.1.1"
