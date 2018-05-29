@@ -41,6 +41,7 @@ Add in sbt using `libraryDependencies += ...`:
     "com.github.xuwei-k"               %% "applybuilder"              % "0.2.3"
     "com.github.xuwei-k"               %% "msgpack4z-core"            % "0.3.9"
     "com.github.xuwei-k"               %% "zeroapply"                 % "0.2.2"
+    "org.typelevel"                    %% "macro-compat"              % "1.1.1"
 
 ### Compiler plugins
 
